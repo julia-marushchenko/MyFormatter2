@@ -12,7 +12,7 @@ public class Main {
         LocalDate date = LocalDate.now();
 
         // Formatting string with a text and date
-        System.out.printf("Hello and welcome, %s! Today is %tB %<te.", "ladies and gentlmen", date);
+        System.out.printf("Hello and welcome, %s! Today is %tB %<te.", "ladies and gentlemen", date);
 
     }
 }
